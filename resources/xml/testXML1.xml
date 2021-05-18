@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="PWS_Schema_Revision_2"?>
+
+<slideshow>
+    <author>Joe Twigg</author>
+    <version>0.2</version>
+    <comment>Test XML Document for module creation</comment>
+
+
+    <defaults>
+        <backgroundcolour>#43675a</backgroundcolour>
+        <font>Calibri</font>
+        <fontsize>12</fontsize>
+        <fontcolour>#a6aeae</fontcolour>
+        <linecolour>#f2c95e</linecolour>
+        <fillcolour>#6dcbdb</fillcolour>
+    </defaults>
+
+    <slide id="slide1">
+        <text>
+            <xstart>300</xstart>
+            <ystart>350</ystart>
+			<p>Opening of </p>
+			<b>"Come as you Are"</b>
+			<i> by Nirvana</i>
+        </text>
+		<video>
+			<xstart>100</xstart>
+            <ystart>200</ystart>
+			<urlname>resources/video/testVideo1.mp4</urlname>
+			<starttime>0</starttime>
+		</video>
+    </slide>
+
+
+    <slide id="slide2">
+        <text xstart="12" ystnart="23">
+            Example second slide
+        </text>
+    </slide>
+</slideshow>

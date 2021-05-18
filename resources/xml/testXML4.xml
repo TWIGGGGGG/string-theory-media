@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="PWS_Schema_Revision_2"?>
+
+<slideshow>
+    <author>Joe Twigg</author>
+    <version>0.1</version>
+    <comment>Test XML Document for module creation</comment>
+
+
+    <defaults>
+        <backgroundcolor>#43675a</backgroundcolor>
+        <font>Calibri</font>
+        <fontsize>12</fontsize>
+        <fontcolor>#a6aeae</fontcolor>
+        <linecolour>#f2c95e</linecolour>
+        <fillcolor>#6dcbdb</fillcolor>
+    </defaults>
+
+    <slide id="slide1">
+		<video>
+			<xstart>200</xstart>
+            <ystart>200</ystart>
+            <loop>true</loop>
+            <urlname>testVideo2.mp4</urlname>
+            <starttime>5</starttime>
+		</video>
+		<image>
+			<xstart>5</xstart>
+            <ystart>5</ystart>
+			<width>400</width>
+			<height>240</height>
+			<urlname>guitar.jpg</urlname>
+			<duration>0</duration>
+		</image>
+    </slide>
+
+
+</slideshow>

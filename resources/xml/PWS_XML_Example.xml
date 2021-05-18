@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="PWS_Schema"?>
+
+<slideshow>
+    <defaults backgroundcolour="#43675a" font="Calibri" fontsize="12" fontcolour="#43675a" linecolour="#436b5a" fillcolour="#43675a"/>
+
+    <slide id="slide1">
+        <image urlname="./resources/image/guitar.jpg" xstart="100" ystart="200" width="40" height="60" duration="75"/>
+        <text font="Comic Sans" fontsize="14" fontcolour="#ffffff" xstart="70" ystart="80">
+            <![CDATA[Normal text with some <b>bold text</b> and some <i>italic text</i>]]>
+        </text>
+        <line xstart="111" ystart="222" xend="333" yend="444" linecolour="#abcdef" duration="10"/>
+        <shape type="rectangle" xstart="212" ystart="313" width="414" height="515" fillcolour="#bbcdef">
+            <shading x1="1" y1="2" colour1="#ccddee" x2="3" y2="4" colour2="#aabbcc" cyclic="true"/>
+        </shape>
+        <audio urlname="./resources/audio/testAudio1.wav" starttime="5" loop="true"/>
+        <video urlname="./resources/video/testVideo1.mp4" loop="false" xstart="15" ystart="16" subtitles="lesson0Subs.txt"/>
+        <button xstart="1" ystart="2" width="3" height="4">
+            <image urlname="./resources/image/guitar.jpg"/>
+            <slideid>slide name</slideid>
+        </button>
+    </slide>
+</slideshow>

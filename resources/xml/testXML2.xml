@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="PWS_Schema_Revision_2"?>
+
+<slideshow>
+    <author>Joe Twigg</author>
+    <version>0.1</version>
+    <comment>Test XML Document for module creation</comment>
+
+
+    <defaults>
+        <backgroundcolour>#43675a</backgroundcolour>
+        <font>Calibri</font>
+        <fontsize>12</fontsize>
+        <fontcolour>#a6aeae</fontcolour>
+        <linecolour>#f2c95e</linecolour>
+        <fillcolour>#6dcbdb</fillcolour>
+    </defaults>
+
+    <slide id="slide1">
+        <text>
+            <xstart>0</xstart>
+            <ystart>0</ystart>
+			<p>Test text for Lesson 3 </p>
+			<b> bold text</b>
+			<i> italic text</i>
+        </text>
+		<audio>
+			<xstart>100</xstart>
+            <ystart>200</ystart>
+			<urlname>resources/audio/testAudio1.wav</urlname>
+			<starttime>0</starttime>
+            <loop>true</loop>
+		</audio>
+		<image>
+			<xstart>5</xstart>
+            <ystart>5</ystart>
+			<width>400</width>
+			<height>240</height>
+			<urlname>resources/image/testImage.jpeg</urlname>
+			<duration>0</duration>
+		</image>
+    </slide>
+
+
+    <slide id="slide2">
+        <text xstart="12" ystnart="23">
+            pls work
+        </text>
+        <shader>
+            <x1>44</x1>
+            <y1>45</y1>
+            <x2>46</x2>
+            <y2>47</y2>
+            <colour1>#fffeff</colour1>
+            <colour2>#010101</colour2>
+            <cyclic>true</cyclic>
+        </shader>
+    </slide>
+</slideshow>

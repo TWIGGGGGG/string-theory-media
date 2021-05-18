@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="PWS_Schema_Revision_2"?>
+
+<slideshow>
+    <author>Joe Twigg</author>
+    <version>0.1</version>
+    <comment>Test XML Document for module creation</comment>
+
+
+    <defaults>
+        <backgroundcolor>#43675a</backgroundcolor>
+        <font>Calibri</font>
+        <fontsize>12</fontsize>
+        <fontcolor>#a6aeae</fontcolor>
+        <linecolour>#f2c95e</linecolour>
+        <fillcolor>#6dcbdb</fillcolor>
+    </defaults>
+
+    <slide id="slide1">
+        <quiz>
+			<question>
+				<questionTitle>What is the capital of the UK?</questionTitle>
+				<correctAnswer>London</correctAnswer>
+				<ans1>Sheffield</ans1>
+				<ans2>York</ans2>
+				<ans3>Loughborough</ans3>
+				<questionNum>0</questionNum>
+				<imageFile>resources/image/no_image.png</imageFile>
+			</question>
+			<question>
+				<questionTitle>The capital of Washington State?</questionTitle>
+				<correctAnswer>Olympia</correctAnswer>
+				<ans1>Seattle</ans1>
+				<ans2>Portland</ans2>
+				<ans3>Salem</ans3>
+				<questionNum>1</questionNum>
+				<imageFile>resources/image/no_image.png</imageFile>
+			</question>
+			<question>
+				<questionTitle>What is the capital of Australia?</questionTitle>
+				<correctAnswer>Canberra</correctAnswer>
+				<ans1>Melbourne</ans1>
+				<ans2>Sydney</ans2>
+				<ans3>Brisbane</ans3>
+				<questionNum>2</questionNum>
+				<imageFile>resources/image/no_image.png</imageFile>
+			</question>
+			<question>
+				<questionTitle>The most populous city in the US?</questionTitle>
+				<correctAnswer>New York</correctAnswer>
+				<ans1>Los Angeles</ans1>
+				<ans2>Chicago</ans2>
+				<ans3>Houston</ans3>
+				<questionNum>3</questionNum>
+				<imageFile>resources/image/no_image.png</imageFile>
+			</question>
+		</quiz>
+    </slide>
+
+
+</slideshow>
