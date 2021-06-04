@@ -1,0 +1,5 @@
+How are the strings of a guitar numbered?|Top to bottom|Outer to inner|Inner to outer|Bottom to Top|resources/image/no_image.png
+At what two points are the string fixed?|Pickups and body|Headstock and bridge|Arms and legs|Tremolo Bar and fretboard|resources/image/no_image.png
+Where is the fretboard?|On the floor|On the front of the neck|On the body|On the headstock|resources/image/no_image.png
+How would you tune a guitar?|Turn the machine heads|Give the machine heads a good ol' whack|Bend the neck of the guitar|With the tremolo bar|resources/image/no_image.png
+What does the tremolo bar do? (if present)|Alter the volume|Reduce the trem|Alter the pitch|Pick the strings|resources/image/no_image.png

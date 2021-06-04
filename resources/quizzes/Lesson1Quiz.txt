@@ -1,0 +1,4 @@
+What is the capital of the UK?|London|Sheffield|York|Loughborough|resources/image/no_image.png
+The capital of Washington State?|Olympia|Seattle|Portland|Salem|resources/image/no_image.png
+What is the capital of Australia?|Canberra|Melbourne|Sydney|Brisbane|resources/image/no_image.png
+The most populous city in the US?|New York|Los Angeles|Chicago|Houston|resources/image/no_image.png

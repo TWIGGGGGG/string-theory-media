@@ -1,0 +1,85 @@
+14/Hi there, welcome to String Theory lesson 2,
+19/Anatomy of a guitar part 2.
+21/Now, for this lesson, we're going to be
+24/focused on the anatomy of specifically
+27/an electric guitar,
+29/and that means talking about electronics.
+34/Mainly this portion of the guitar.
+37/Now,guitars make their noise using pickups,
+41/these things here. These pickups, when you
+44/play the strings, the strings vibrate, and
+49/those vibrations are captured by the pickups
+53/and they make your guitar make noise, like
+56/this:
+64/Now, on most electric guitars, you have
+69/multiple pickups. On this, which is a Fender
+72/Stratocaster, there are three pickups here.
+74/These are called single coil pickups, and
+78/You can get pickups called humbucking pickups
+82/and you can get pickups called P90 pickups.
+85/They all sound different, they all do
+87/slightly different things, however, one thing
+90/they all have in common is that 
+94/they all make your guitar make noise.
+108/Now, guitars will usually come with a
+111/pickup selector, which is this. Now, what
+115/a pickup selector does is it allows you
+118/to change which pickup your guitar is
+121/currently using. It allows you to do this
+124/because, depending on the position of each
+127/of these pickups, the sound changes.
+129/That has to do with the tension in the
+132/strings at the bridge. So, for example, if
+135/we go to the bridge pickup position,
+139/on my Fender Stratocaster here, that is
+143/the pickup selector in the downwards
+146/position, and it sounds quite brittle
+151/like this: 
+153/[brittle guitar]
+156/Now if I go to the neck pickup position,
+159/which is right here, you'll hear that
+161/it sounds a lot warmer and quite nice:
+164/[warm and quite nice guitar]
+176/And we can go to the middle position
+179/for a different sound:
+182/[different sounding guitar]
+185/And we can try either the 4th or 2nd
+188/positions, which are actually a
+191/combination of these two pickups or
+193/these two pickups:
+196/[combined-sounding guitar]
+213/Now, these knobs on your guitar,
+216/on a Fender Stratocaster, they do
+219/different things if you have a
+221/different guitar, for example a
+225/Les Paul style or even a telecaster
+230/you might only have two knobs or
+233/maybe youu only have one knob.
+236/It's different all sorts of guitars,
+240/but what you usually find is you have
+244/a volume control and a tone control.
+248/Now, the volume control is fairly self-
+251/-explainatory. All the way off, and you
+253/Can't hear any noise at all [quiet guitar]
+257/And then I can roll it in, [louder guitar]
+263/And take it away again. [quieter guitar]
+279/Now, a tone control alters the way your
+283/guitar sounds, it alters what's called
+286/the 'timbre' of your guitar. Now, with
+290/the tone control all the way up, the
+293/tone control basically doesn't do anything
+296/All the frequencies in your guitar tone
+299/are there. [tonal guitar noises]
+304/However, as I start to turn the tone 
+307/control down, you should hear all the
+309/bright harshness of that bridge pickup
+312/start to fade away:
+316/[progressively less harsh guitar noises]
+324/And all the way off:
+327/[very unharsh guitar]
+335/And all the way back in again:
+337/[very harsh guitar]
+343/So, that about concludes Anatomy of a
+348/guitar part 2, lesson 2 for beginner
+351/String Theory, hope you learnt something
+353/useful

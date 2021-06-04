@@ -1,0 +1,3 @@
+How is a drop tuning achieved?|Every string is dropped by a semitone|The 1st string in a standard tuning is detuned so it matches the note of the 3rd string|The 6th string in a standard tuning is detuned so it matches the note of 4th string|The 4th String in a raised tuning is dropped to match the 6th string|resources/image/no_image.png
+What power chords does drop tuning allow?|Weak power chords|Closed power chords|Wide power chords|Open power chords|resources/image/no_image.png
+What else does drop tuning allow us to achieve?|Interesting chord progressions|Enlightenment|Butter fingers ('cause drop hehe)|Higher pitched chord progressions|resources/image/no_image.png
